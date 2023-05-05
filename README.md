@@ -88,12 +88,12 @@ arxiv May 2022 [Paper] (https://arxiv.org/pdf/2205.00445.pdf)
 
 #### ThoughtSource: A central hub for large language model reasoning data
 
-https://paperswithcode.com/paper/thoughtsource-a-central-hub-for-large
+https://github.com/openbiolink/thoughtsource
 
 #### GSM8K
 Introduced by Cobbe et al. in Training Verifiers to Solve Math Word Problems
 
-https://paperswithcode.com/dataset/gsm8k
+https://github.com/openai/grade-school-math
 
 ## Other Resources 
 
