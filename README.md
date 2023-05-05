@@ -86,7 +86,7 @@ arxiv May 2022 [Paper] (https://arxiv.org/pdf/2205.00445.pdf)
 
 ## Benchmarking DataSets For Reasoning Tasks
 
-##### ThoughtSource: A central hub for large language model reasoning data
+#### ThoughtSource: A central hub for large language model reasoning data
 
 https://paperswithcode.com/paper/thoughtsource-a-central-hub-for-large
 
