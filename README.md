@@ -75,6 +75,10 @@ Honghua Zhang, Liunian Harold Li, Tao Meng, Kai-Wei Chang, Guy Van den Broeck
 
 arxiv May 2022 [Paper] (https://arxiv.org/pdf/2205.11502.pdf)
 
+### MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning
+Ehud Karpas, Omri Abend, Yonatan Belinkov, Barak Lenz, Opher Lieber, Nir Ratner, Yoav Shoham, Hofit Bata, Yoav Levine, Kevin Leyton-Brown, Dor Muhlgay, Noam Rozen, Erez Schwartz, Gal Shachaf, Shai Shalev-Shwartz, Amnon Shashua, Moshe Tenenholtz
+
+arxiv May 2022 [Paper] (https://arxiv.org/pdf/2205.00445.pdf)
 
 ## Benchmarking DataSets For Reasoning Tasks
 
@@ -85,6 +89,4 @@ arxiv May 2022 [Paper] (https://arxiv.org/pdf/2205.11502.pdf)
 ### https://github.com/Xpitfire/symbolicai
 
 ### https://ec.ai/blog/the-second-half-of-the-ai-puzzle-adding-logical-validation-and-reasoning-to-llms
-
-### MRKL Systems A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning
 
