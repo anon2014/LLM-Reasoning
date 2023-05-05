@@ -11,28 +11,28 @@ Feel free to contribute and add more resources.
 #### Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4
 Hanmeng Liu, Ruoxi Ning, Zhiyang Teng, Jian Liu, Qiji Zhou, Yue Zhang
 
-arxiv Apr 2023 [Paper] (https://arxiv.org/pdf/2304.03439.pdf)
+arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2304.03439.pdf)] 
 
 #### Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models
 Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song-Chun Zhu, Jianfeng Gao 
 
-arxiv Apr 2023 [Paper] (https://arxiv.org/pdf/2304.09842.pdf)
+arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2304.09842.pdf)] 
 
 #### Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
 Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi
 
-ICLR 2023 [Paper] (https://arxiv.org/pdf/2205.10625.pdf)
+ICLR 2023 [[Paper](https://arxiv.org/pdf/2205.10625.pdf)]
 
 #### Language Models Are Greedy Reasoners: A Systematic Formal Analysis Of Chain-Of-Thought
 Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought
 Abulhair Saparov, He He
 
-ICLR 2023 [Paper] (https://arxiv.org/pdf/2210.01240.pdf)
+ICLR 2023 [[Paper](https://arxiv.org/pdf/2210.01240.pdf)]
 
 #### Large Language Models are reasoners with Self-Verification
 Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, Shizhu He, Kang Liu, Jun Zhao 
 
-arxiv Mar 2023 [Paper] (https://arxiv.org/pdf/2212.09561.pdf)
+arxiv Mar 2023 [[Paper] (https://arxiv.org/pdf/2212.09561.pdf)]
 
 #### Emergent Analogical Reasoning in Large Language Models
 Taylor Webb, Keith J. Holyoak, Hongjing Lu
