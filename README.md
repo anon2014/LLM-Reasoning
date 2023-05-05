@@ -32,68 +32,69 @@ ICLR 2023 [[Paper](https://arxiv.org/pdf/2210.01240.pdf)]
 #### Large Language Models are reasoners with Self-Verification
 Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, Shizhu He, Kang Liu, Jun Zhao 
 
-arxiv Mar 2023 [[Paper] (https://arxiv.org/pdf/2212.09561.pdf)]
+arxiv Mar 2023 [[Paper](https://arxiv.org/pdf/2212.09561.pdf)]
 
 #### Emergent Analogical Reasoning in Large Language Models
 Taylor Webb, Keith J. Holyoak, Hongjing Lu
-Mar 2023 cs.AI, cs.CL [Paper] (https://arxiv.org/pdf/2212.09196.pdf)
+Mar 2023 cs.AI, cs.CL [[Paper](https://arxiv.org/pdf/2212.09196.pdf)]
 
 ####  MathPrompter 
 MathPrompter: Mathematical Reasoning using Large Language Models
 Shima Imani, Liang Du, Harsh Shrivastava
 
-arxiv Mar 2023 [Papper] (https://arxiv.org/pdf/2303.05398.pdf)
+arxiv Mar 2023 [[Paper](https://arxiv.org/pdf/2303.05398.pdf)]
 
 #### LAMBADA: Backward Chaining for Automated Reasoning in Natural Language
 Seyed Mehran Kazemi, Najoung Kim, Deepti Bhatia, Xin Xu, Deepak Ramachandran 
 
-arxiv Dec 2022 [Paper] (https://arxiv.org/pdf/2212.13894.pdf)
+arxiv Dec 2022 [[Paper](https://arxiv.org/pdf/2212.13894.pdf)] 
 
 #### When Not to Trust Language Models: Investigating Effectiveness and Limitations of Parametric and Non-Parametric Memories
 Alex Mallen, Akari Asai, Victor Zhong, Rajarshi Das, Hannaneh Hajishirzi, Daniel Khashabi 
 
-arxiv Dec 2022 [Paper] (https://arxiv.org/pdf/2212.10511.pdf)
+arxiv Dec 2022 [[Paper](https://arxiv.org/pdf/2212.10511.pdf)]
 
 #### Towards Reasoning in Large Language Models: A Survey
 Jie Huang, Kevin Chen-Chuan Chang
 
-arxiv Dec 2022 [Paper] (https://arxiv.org/pdf/2212.10403.pdf)
+arxiv Dec 2022 [[Paper](https://arxiv.org/pdf/2212.10403.pdf)]
 
 #### Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks
 Wenhu Chen, Xueguang Ma, Xinyi Wang, William W. Cohen
 
-arxiv Nov 2022 [Paper] (https://arxiv.org/pdf/2211.12588.pdf)
+arxiv Nov 2022 [[Paper](https://arxiv.org/pdf/2211.12588.pdf)]
 
 #### Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
 Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc Le, Denny Zhou 
 
-NeurIPS 2022 [Paper] (https://arxiv.org/pdf/2201.11903.pdf)
+NeurIPS 2022 [[Paper](https://arxiv.org/pdf/2201.11903.pdf)]
 
 #### Selection-Inference: Exploiting Large Language Models for Interpretable Logical Reasoning
 Antonia Creswell, Murray Shanahan, Irina Higgins
 
-arxiv May 2022 [Paper] (https://arxiv.org/pdf/2205.09712.pdf)
+arxiv May 2022 [[Paper](https://arxiv.org/pdf/2205.09712.pdf)]
 
 #### On the Paradox of Learning to Reason from Data
 Honghua Zhang, Liunian Harold Li, Tao Meng, Kai-Wei Chang, Guy Van den Broeck 
 
-arxiv May 2022 [Paper] (https://arxiv.org/pdf/2205.11502.pdf)
+arxiv May 2022 [[Paper](https://arxiv.org/pdf/2205.11502.pdf)]
 
 #### MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning
 Ehud Karpas, Omri Abend, Yonatan Belinkov, Barak Lenz, Opher Lieber, Nir Ratner, Yoav Shoham, Hofit Bata, Yoav Levine, Kevin Leyton-Brown, Dor Muhlgay, Noam Rozen, Erez Schwartz, Gal Shachaf, Shai Shalev-Shwartz, Amnon Shashua, Moshe Tenenholtz
 
-arxiv May 2022 [Paper] (https://arxiv.org/pdf/2205.00445.pdf)
+arxiv May 2022 [[Paper](https://arxiv.org/pdf/2205.00445.pdf)]
 
 ## Benchmarking DataSets For Reasoning Tasks
 
 #### ThoughtSource: A central hub for large language model reasoning data
+[[Github](https://github.com/openbiolink/thoughtsource)]
 
-https://github.com/openbiolink/thoughtsource
 
 #### GSM8K
 Introduced by Cobbe et al. in Training Verifiers to Solve Math Word Problems
 
-https://github.com/openai/grade-school-math
+[[Github](https://github.com/openai/grade-school-math)]
+
 
 ## Other Resources 
 
