@@ -88,7 +88,8 @@ arxiv May 2022 [[Paper](https://arxiv.org/pdf/2205.00445.pdf)]
 ## Benchmarking DataSets For Reasoning Tasks
 
 #### ThoughtSource: A central hub for large language model reasoning data
-[[Github](https://github.com/openbiolink/thoughtsource)]
+[[Github](https://github.com/openbiolink/thoughtsource)] 
+[[Datasets](https://github.com/openbiolink/thoughtsource#available-datasets)]
 
 
 #### GSM8K
