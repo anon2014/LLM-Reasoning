@@ -84,9 +84,9 @@ arxiv May 2022 [Paper] (https://arxiv.org/pdf/2205.00445.pdf)
 
 ## Other Resources 
 
-### https://github.com/jeffhj/LM-reasoning
+#### https://github.com/jeffhj/LM-reasoning
 
-### https://github.com/Xpitfire/symbolicai
+#### https://github.com/Xpitfire/symbolicai
 
-### https://ec.ai/blog/the-second-half-of-the-ai-puzzle-adding-logical-validation-and-reasoning-to-llms
+#### https://ec.ai/blog/the-second-half-of-the-ai-puzzle-adding-logical-validation-and-reasoning-to-llms
 
