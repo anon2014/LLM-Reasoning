@@ -13,6 +13,11 @@ Chuanyang Zheng, Zhengying Liu, Enze Xie, Zhenguo Li, Yu Li
 
 arxiv May 2023 [[Paper](https://arxiv.org/pdf/2304.09797.pdf)] 
 
+#### Causal Reasoning and Large Language Models: Opening a New Frontier for Causality
+Emre Kıcıman, Robert Ness, Amit Sharma, Chenhao Tan
+
+arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2305.00050.pdf)]
+
 #### Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4
 Hanmeng Liu, Ruoxi Ning, Zhiyang Teng, Jian Liu, Qiji Zhou, Yue Zhang
 
