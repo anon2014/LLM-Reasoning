@@ -11,7 +11,7 @@ Feel free to contribute and add more resources.
 #### Progressive-Hint Prompting Improves Reasoning in Large Language Models
 Chuanyang Zheng, Zhengying Liu, Enze Xie, Zhenguo Li, Yu Li
 
-arxiv May 2023 [[Paper] (https://arxiv.org/pdf/2304.09797.pdf)]
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2304.09797.pdf)] 
 
 #### Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4
 Hanmeng Liu, Ruoxi Ning, Zhiyang Teng, Jian Liu, Qiji Zhou, Yue Zhang
@@ -106,6 +106,8 @@ Introduced by Cobbe et al. in Training Verifiers to Solve Math Word Problems
 ## Other Resources 
 
 #### https://github.com/jeffhj/LM-reasoning
+
+#### https://github.com/atfortes/LLM-Reasoning-Papers
 
 #### https://github.com/Xpitfire/symbolicai
 
