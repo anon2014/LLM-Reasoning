@@ -3,8 +3,6 @@
 
 This repository is a collection of resources and papers on LLMs for reasoning tasks
 
-Feel free to contribute and add more resources.
- 
 
 ## Papers
 
