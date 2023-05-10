@@ -33,6 +33,11 @@ Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, D
 
 ICLR 2023 [[Paper](https://arxiv.org/pdf/2205.10625.pdf)]
 
+#### Self-Consistency Improves Chain of Thought Reasoning in Language Models
+Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou 
+
+ICLR 2023 [[Paper](https://arxiv.org/pdf/2203.11171.pdf)]
+
 #### Language Models Are Greedy Reasoners: A Systematic Formal Analysis Of Chain-Of-Thought
 Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought
 Abulhair Saparov, He He
