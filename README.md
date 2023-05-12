@@ -33,6 +33,11 @@ Pan Lu, Baolin Peng, Hao Cheng, Michel Galley, Kai-Wei Chang, Ying Nian Wu, Song
 
 arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2304.09842.pdf)] 
 
+#### Why think step-by-step? Reasoning emerges from the locality of experience
+Ben Prystawski, Noah D. Goodman
+
+arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2304.03843.pdf)]
+
 #### Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
 Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi
 
