@@ -38,6 +38,11 @@ Ben Prystawski, Noah D. Goodman
 
 arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2304.03843.pdf)]
 
+#### Answering Questions by Meta-Reasoning over Multiple Chains of Thought
+Ori Yoran, Tomer Wolfson, Ben Bogin, Uri Katz, Daniel Deutch, Jonathan Berant
+
+arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2304.13007.pdf)]
+
 #### Least-to-Most Prompting Enables Complex Reasoning in Large Language Models
 Denny Zhou, Nathanael Schärli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Claire Cui, Olivier Bousquet, Quoc Le, Ed Chi
 
