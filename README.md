@@ -8,6 +8,11 @@ This repository is a collection of resources and papers on LLMs for reasoning ta
 
 ## Papers
 
+#### Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought
+Reasoning by Large Language Models
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.04091.pdf)]
+
 #### Progressive-Hint Prompting Improves Reasoning in Large Language Models
 Chuanyang Zheng, Zhengying Liu, Enze Xie, Zhenguo Li, Yu Li
 
@@ -43,6 +48,11 @@ Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-T
 Abulhair Saparov, He He
 
 ICLR 2023 [[Paper](https://arxiv.org/pdf/2210.01240.pdf)]
+
+#### Self-Consistency Improves Chain of Thought Reasoning in Language Models
+Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, Denny Zhou
+
+ICLR 2023 [[Paper](https://arxiv.org/pdf/2203.11171.pdf)]
 
 #### Large Language Models are reasoners with Self-Verification
 Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, Shizhu He, Kang Liu, Jun Zhao 
