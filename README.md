@@ -18,6 +18,11 @@ Chuanyang Zheng, Zhengying Liu, Enze Xie, Zhenguo Li, Yu Li
 
 arxiv May 2023 [[Paper](https://arxiv.org/pdf/2304.09797.pdf)] 
 
+#### Large Language Models are few(1)-shot Table Reasoners
+Wenhu Chen 
+
+EACL 2023 [[Paper](https://aclanthology.org/2023.findings-eacl.83.pdf)]
+
 #### Causal Reasoning and Large Language Models: Opening a New Frontier for Causality
 Emre Kıcıman, Robert Ness, Amit Sharma, Chenhao Tan
 
