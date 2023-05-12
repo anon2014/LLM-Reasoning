@@ -8,8 +8,8 @@ This repository is a collection of resources and papers on LLMs for reasoning ta
 
 ## Papers
 
-#### Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought
-Reasoning by Large Language Models
+#### Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models
+Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng Lim
 
 arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.04091.pdf)]
 
