@@ -8,6 +8,12 @@ This repository is a collection of resources and papers on LLMs for reasoning ta
 
 ## Papers
 
+
+#### Progressive-Hint Prompting Improves Reasoning in Large Language Models
+Chuanyang Zheng, Zhengying Liu, Enze Xie, Zhenguo Li, Yu Li 
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2304.09797.pdf)]
+
 #### Solving Math Word Problems via Cooperative Reasoning induced Language Models
 Xinyu Zhu, Junjie Wang, Lin Zhang, Yuxiang Zhang, Ruyi Gan, Jiaxing Zhang, Yujiu Yang
 
