@@ -8,6 +8,10 @@ This repository is a collection of resources and papers on LLMs for reasoning ta
 
 ## Papers
 
+#### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting
+Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.04388.pdf)]
 
 #### Progressive-Hint Prompting Improves Reasoning in Large Language Models
 Chuanyang Zheng, Zhengying Liu, Enze Xie, Zhenguo Li, Yu Li 
