@@ -8,6 +8,28 @@ This repository is a collection of resources and papers on LLMs for reasoning ta
 
 ## Papers
 
+#### LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities
+Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.13168.pdf)]
+
+#### Are LLMs the Master of All Trades? : Exploring Domain-Agnostic Reasoning Skills of LLMs
+Shrivats Agrawal
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2303.12810.pdf)]
+
+#### Can ChatGPT Defend the Truth? Automatic Dialectical Evaluation Elicits LLMs' Deficiencies in Reasoning
+Boshi Wang, Xiang Yue, Huan Sun
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.13160.pdf)]
+
+#### Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning
+Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.12295.pdf)]
+
+#### 
+
 #### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting
 Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman
 
@@ -17,6 +39,11 @@ arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.04388.pdf)]
 Chuanyang Zheng, Zhengying Liu, Enze Xie, Zhenguo Li, Yu Li 
 
 arxiv May 2023 [[Paper](https://arxiv.org/pdf/2304.09797.pdf)]
+
+#### Let's Sample Step by Step: Adaptive-Consistency for Efficient Reasoning with LLMs
+Pranjal Aggarwal, Aman Madaan, Yiming Yang, Mausam
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.11860.pdf)]
 
 #### Solving Math Word Problems via Cooperative Reasoning induced Language Models
 Xinyu Zhu, Junjie Wang, Lin Zhang, Yuxiang Zhang, Ruyi Gan, Jiaxing Zhang, Yujiu Yang
@@ -126,6 +153,10 @@ Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, Yu
 
 ICLR 2023 [[Paper](https://arxiv.org/pdf/2210.03629.pdf)]
 
+#### Logic Against Bias: Textual Entailment Mitigates Stereotypical Sentence Reasoning
+Hongyin Luo, James Glass
+
+arxiv Mar 2023 [[Paper](https://arxiv.org/pdf/2303.05670.pdf)]
 
 #### Large Language Models are reasoners with Self-Verification
 Yixuan Weng, Minjun Zhu, Fei Xia, Bin Li, Shizhu He, Kang Liu, Jun Zhao 
@@ -233,6 +264,11 @@ arxiv Jul 2022 [[Paper](https://arxiv.org/pdf/2207.05608.pdf)]
 Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay Ramasesh, Ambrose Slone, Cem Anil, Imanol Schlag, Theo Gutman-Solo, Yuhuai Wu, Behnam Neyshabur, Guy Gur-Ari, Vedant Misra
 
 arxiv Jul 2022 [[Paper](https://arxiv.org/pdf/2206.14858.pdf)]
+
+#### Large Language Models Still Can't Plan (A Benchmark for LLMs on Planning and Reasoning about Change)
+Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, Subbarao Kambhampati
+
+arxiv Jun 2022 [[Paper](https://arxiv.org/pdf/2206.10498.pdf)]
 
 
 
