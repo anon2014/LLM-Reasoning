@@ -8,17 +8,15 @@ This repository is a collection of resources and papers on LLMs for reasoning ta
 
 ## Papers
 
-### May 2023 
-
 #### Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs
 Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho
 
-arxiv [[Paper](https://arxiv.org/pdf/2305.14279.pdf)]
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.14279.pdf)]
 
 #### ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on\\ Chat-based Large Language Models
 Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen
 
-arxiv [[Paper](https://arxiv.org/pdf/2305.14323.pdf)]
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.14323.pdf)]
 
 
 #### LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities
@@ -39,7 +37,7 @@ arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.13160.pdf)]
 #### LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models
 Fangkai Jiao, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen
 
-arxiv [[Paper](https://arxiv.org/pdf/2305.13718.pdf)]
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.13718.pdf)]
 
 #### Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning
 Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang
@@ -49,9 +47,7 @@ arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.12295.pdf)]
 #### OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models
 Badr AlKhamissi, Siddharth Verma, Ping Yu, Zhijing Jin, Asli Celikyilmaz, Mona Diab
 
-arxiv [[Paper](https://arxiv.org/pdf/2305.12001.pdf)] 
-
-
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.12001.pdf)] 
 
 #### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting
 Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman
