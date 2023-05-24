@@ -8,6 +8,19 @@ This repository is a collection of resources and papers on LLMs for reasoning ta
 
 ## Papers
 
+### May 2023 
+
+#### Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs
+Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho
+
+arxiv [[Paper](https://arxiv.org/pdf/2305.14279.pdf)]
+
+#### ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on\\ Chat-based Large Language Models
+Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen
+
+arxiv [[Paper](https://arxiv.org/pdf/2305.14323.pdf)]
+
+
 #### LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities
 Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang
 
@@ -23,12 +36,22 @@ Boshi Wang, Xiang Yue, Huan Sun
 
 arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.13160.pdf)]
 
+#### LogicLLM: Exploring Self-supervised Logic-enhanced Training for Large Language Models
+Fangkai Jiao, Zhiyang Teng, Shafiq Joty, Bosheng Ding, Aixin Sun, Zhengyuan Liu, Nancy F. Chen
+
+arxiv [[Paper](https://arxiv.org/pdf/2305.13718.pdf)]
+
 #### Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning
 Liangming Pan, Alon Albalak, Xinyi Wang, William Yang Wang
 
 arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.12295.pdf)]
 
-#### 
+#### OPT-R: Exploring the Role of Explanations in Finetuning and Prompting for Reasoning Skills of Large Language Models
+Badr AlKhamissi, Siddharth Verma, Ping Yu, Zhijing Jin, Asli Celikyilmaz, Mona Diab
+
+arxiv [[Paper](https://arxiv.org/pdf/2305.12001.pdf)] 
+
+
 
 #### Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting
 Miles Turpin, Julian Michael, Ethan Perez, Samuel R. Bowman
@@ -60,6 +83,13 @@ Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee, Ee-Peng
 
 arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.04091.pdf)]
 
+#### RECKONING: Reasoning through Dynamic Knowledge Encoding
+Zeming Chen, Gail Weiss, Eric Mitchell, Asli Celikyilmaz, Antoine Bosselut
+
+arxiv [[Paper](https://arxiv.org/pdf/2305.06349.pdf)]
+
+#### 
+
 #### Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming
 Hanlin Zhang, Jiani Huang, Ziyang Li, Mayur Naik, Eric Xing
 
@@ -80,10 +110,32 @@ Wenhu Chen
 
 EACL 2023 [[Paper](https://aclanthology.org/2023.findings-eacl.83.pdf)]
 
+#### Federated Prompting and Chain-of-Thought Reasoning for Improving LLMs Answering
+Xiangyang Liu, Tianqi Pang, Chenyou Fan
+
+arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2304.13911.pdf)]
+
 #### Causal Reasoning and Large Language Models: Opening a New Frontier for Causality
 Emre Kıcıman, Robert Ness, Amit Sharma, Chenhao Tan
 
 arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2305.00050.pdf)]
+
+
+#### Dialectical language model evaluation: An initial appraisal of the commonsense spatial reasoning abilities of LLMs
+Anthony G Cohn, Jose Hernandez-Orallo
+
+arxiv Apr 2023 [[Paper](https://arxiv.org/pdf/2304.11164.pdf)]
+
+#### Beyond Classification: Financial Reasoning in State-of-the-Art Language Models
+Guijin Son, Hanearl Jung, Moonjeong Hahm, Keonju Na, Sol Jin
+
+arxiv [[Paper](https://arxiv.org/pdf/2305.01505.pdf)]
+
+#### REFINER: Reasoning Feedback on Intermediate Representations
+Debjit Paul, Mete Ismayilzada, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings
+
+arxiv [[Paper](https://arxiv.org/pdf/2304.01904.pdf)]
+
 
 #### Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4
 Hanmeng Liu, Ruoxi Ning, Zhiyang Teng, Jian Liu, Qiji Zhou, Yue Zhang
@@ -179,6 +231,16 @@ Shima Imani, Liang Du, Harsh Shrivastava
 
 arxiv Mar 2023 [[Paper](https://arxiv.org/pdf/2303.05398.pdf)]
 
+#### ART: Automatic multi-step reasoning and tool-use for large language models
+Bhargavi Paranjape, Scott Lundberg, Sameer Singh, Hannaneh Hajishirzi, Luke Zettlemoyer, Marco Tulio Ribeiro
+
+arxiv Mar 2023 [[Paper](https://arxiv.org/pdf/2303.09014.pdf)]
+
+
+#### A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity
+Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji, Tiezheng Yu, Willy Chung, Quyet V. Do, Yan Xu, Pascale Fung
+
+arxiv Feb 2023 [[Paper](https://arxiv.org/pdf/2302.04023.pdf)]
 
 #### Specializing Smaller Language Models towards Multi-Step Reasoning
 Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal, Tushar Khot
@@ -219,10 +281,25 @@ Jiaxuan Li, Lang Yu, Allyson Ettinger
 
 arxiv Dec 2022 [[Paper](https://arxiv.org/pdf/2212.03278.pdf)]
 
+
+#### ALERT: Adapting Language Models to Reasoning Tasks
+Ping Yu, Tianlu Wang, Olga Golovneva, Badr Alkhamissy, Gargi Ghosh, Mona Diab, Asli Celikyilmaz
+
+arxiv Dec 2022 [[Paper](https://arxiv.org/pdf/2212.08286.pdf)]
+
+
+#### 
 #### Towards Reasoning in Large Language Models: A Survey
 Jie Huang, Kevin Chen-Chuan Chang
 
 arxiv Dec 2022 [[Paper](https://arxiv.org/pdf/2212.10403.pdf)]
+
+#### ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning
+Olga Golovneva, Moya Chen, Spencer Poff, Martin Corredor, Luke Zettlemoyer, Maryam Fazel-Zarandi, Asli Celikyilmaz
+
+arxiv Dec 2022 [[Paper](https://arxiv.org/pdf/2212.07919.pdf)]
+
+
 
 #### Large Language Models Are Reasoning Teachers
 Namgyu Ho, Laura Schmid, Se-Young Yun
