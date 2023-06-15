@@ -23,6 +23,11 @@ Yao Fu, Litu Ou, Mingyu Chen, Yuhao Wan, Hao Peng, Tushar Khot
 
 arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.17306)]
 
+#### Let's Verify Step by Step
+Hunter Lightman, Vineet Kosaraju, Yura Burda, Harri Edwards, Bowen Baker, Teddy Lee, Jan Leike, John Schulman, Ilya Sutskever, Karl Cobbe
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.20050.pdf)]
+
 #### Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs
 Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho
 
