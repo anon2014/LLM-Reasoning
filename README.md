@@ -38,6 +38,10 @@ Zhipeng Chen, Kun Zhou, Beichen Zhang, Zheng Gong, Wayne Xin Zhao, Ji-Rong Wen
 
 arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.14323.pdf)]
 
+#### Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+Shunyu Yao, Dian Yu, Jeffrey Zhao, Izhak Shafran, Thomas L. Griffiths, Yuan Cao, Karthik Narasimhan
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.10601.pdf)]
 
 #### LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities
 Yuqi Zhu, Xiaohan Wang, Jing Chen, Shuofei Qiao, Yixin Ou, Yunzhi Yao, Shumin Deng, Huajun Chen, Ningyu Zhang
