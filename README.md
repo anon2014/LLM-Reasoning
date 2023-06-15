@@ -8,6 +8,21 @@ This repository is a collection of resources and papers on LLMs for reasoning ta
 
 ## Papers
 
+#### Turning large language models into cognitive models
+Marcel Binz, Eric Schulz 
+
+arxiv Jun 2023 [[Paper](https://arxiv.org/pdf/2306.03917)]
+
+#### Large Language Models Converge on Brain-Like Word Representations
+Jiaang Li, Antonia Karamolegkou, Yova Kementchedjhieva, Mostafa Abdou, Sune Lehmann, Anders Søgaard 
+
+arxiv Jun 2023 [[Paper](https://arxiv.org/pdf/2306.01930)]
+
+#### Chain-of-Thought Hub: A Continuous Effort to Measure Large Language Models' Reasoning Performance
+Yao Fu, Litu Ou, Mingyu Chen, Yuhao Wan, Hao Peng, Tushar Khot
+
+arxiv May 2023 [[Paper](https://arxiv.org/pdf/2305.17306)]
+
 #### Two Failures of Self-Consistency in the Multi-Step Reasoning of LLMs
 Angelica Chen, Jason Phang, Alicia Parrish, Vishakh Padmakumar, Chen Zhao, Samuel R. Bowman, Kyunghyun Cho
 
